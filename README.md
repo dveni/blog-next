@@ -1,3 +1,8 @@
+Front-end of a fullstack blog application using Next.js.
+
+Based on @chris__sev Tech Talk: ![Youtube video](https://www.youtube.com/watch?mkt_tok=eyJpIjoiTUdWbE5USXhObU0wTVdJMiIsInQiOiJLTDdVV09KalJOaGJKNVBaeEdkTVhXaWVjbDZzbjgyT3kxWGVjVnA1TzNSKzBWTjRiOEZUcDZhb25LTFBGMzRHb0VHbWVITjg2a2lDRVFlOWpoeVNFNUc2UnQwZ2dwbHN1VXJkT3ZGYUhWdWZodmVYNm1mbU1cL1VYblFcLzZEYXZSIn0%3D&v=WrmndNpWSJw&feature=youtu.be)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
